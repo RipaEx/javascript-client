@@ -1,11 +1,11 @@
 {
   "private": true,
-  "name": "ark-client-examples",
+  "name": "ripaex-client-examples",
   "version": "1.0.0",
-  "description": "Ark JavaScrip examples",
+  "description": "RipaEX JavaScrip examples",
   "license": "MIT",
   "dependencies": {
-    "@arkecosystem/client": "^0.1.16",
+    "@ripaex/client": "^0.1.21",
     "@arkecosystem/crypto": "^0.2.5"
   }
 }
